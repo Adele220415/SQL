@@ -1,0 +1,3 @@
+
+CREATE DATABASE SampleDB_Snapshot
+AS SNAPSHOT OF SampleDB
